@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author           	= { "Bogdan Stasjuk" => "Bogdan.Stasjuk@gmail.com" }
   s.source           	= { :git => "https://github.com/Bogdan-Stasjuk/BSNetworkTraffic.git", :tag => '0.1.1' }
   s.social_media_url = 'https://twitter.com/Bogdan_Stasjuk'
-  s.platform     		= :ios, '6.0'
+  s.platform     		= :ios, '5.0'
   s.requires_arc 	= true
   s.source_files 	= 'BSNetworkTraffic/*.{h,m}'
   s.public_header_files   	= 'BSNetworkTraffic/*.h'
